@@ -17,3 +17,4 @@ print('The number of occurrences of var b in array a is :',a.count(b))
 
 a = 'ana are mere si nu are pere'
 print('The number of words in string a is :',len(a.split()))
+
